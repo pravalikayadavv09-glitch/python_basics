@@ -1,4 +1,3 @@
-a=10
-b=20
-sum=a+b
-print("sum=",sum)
+a=2
+b=4
+print(a*b)
